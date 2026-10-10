@@ -1,6 +1,6 @@
 # TerraAlert: Wildfire Damage Mapping from Sentinel-2
 
-**Team:** TerraAlert (Morocco) | **Theme:** Climate-induced Disasters | **Challenge:** Arab Youth Space Hackathon, 813
+**Team:** TerraAlert | **Theme:** Climate-induced Disasters | **Challenge:** Arab Youth Space Hackathon, 813
 
 **Summary:** A reproducible notebook that maps burned vegetation after a wildfire by comparing two Sentinel-2 images (before and after), computes the burned area and a severity breakdown, and checks the result against an independent MODIS burned-area product. Case study: Kabylie, Algeria, August 2021.
 
